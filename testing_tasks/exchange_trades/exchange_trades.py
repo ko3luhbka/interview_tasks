@@ -30,7 +30,7 @@ def find_max_trades_num(trades_list=trades_to_list()):
             exchange_start_time[curr_exchange] = trade_num
 
         delta = (curr_trade_time - trades_list[exchange_start_time[curr_exchange]][0])
-        print('=== delta: ', delta.seconds)
+        print('=== delta:   ', delta.seconds)
         if delta.seconds < 60:
             curr_exchange_trades[curr_exchange] += 1
             trade_num += 1
