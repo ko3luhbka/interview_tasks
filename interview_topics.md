@@ -61,7 +61,11 @@ https://qna.habr.com/q/504486
 About SQL indexes:  
 https://ruhighload.com/%d0%98%d0%bd%d0%b4%d0%b5%d0%ba%d1%81%d1%8b+%d0%b2+mysql
 
-
 ### Web backend
 
 https://habr.com/en/post/349434/  
+
+### Shell scripting
+
+Bash scripting cheatsheet:  
+https://devhints.io/bash
