@@ -47,8 +47,15 @@ https://habr.com/en/post/141501/
 
 Raymond Hettinger's great talk about dealing with Python classes:  
 https://youtu.be/HTLu2DFOdTg  
+
 Code from the video:  
 https://gist.github.com/lvguowei/f765fe12ea82d563e300451ae2162a2b
+
+Design patterns book:  
+"Python in practice" by Mark Summerfield
+
+A bunch of good examples on refactoring.guru:  
+https://refactoring.guru/ru/design-patterns/python
 
 ### Git
 
