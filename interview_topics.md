@@ -17,7 +17,12 @@ https://trello.com/b/rvhkmY4c
 Common data structures time complexity:  
 https://wiki.python.org/moin/TimeComplexity
 
-#### Lists
+#### Collections
+
+copy, shallow copy and deepcopy:
+https://realpython.com/copying-python-objects/
+
+##### Lists
 
 How Python lists works under the hood:  
 https://habr.com/en/post/273045/
@@ -42,6 +47,10 @@ https://opensource.com/article/18/3/loop-better-deeper-look-iteration-python
 Perfect explanation with good examples:  
 https://habr.com/en/post/141411/  
 https://habr.com/en/post/141501/
+
+#### Context manager
+
+https://dbader.org/blog/python-context-managers-and-with-statement
 
 ### OOP
 
